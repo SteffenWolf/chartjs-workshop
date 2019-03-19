@@ -1,0 +1,30 @@
+.demo_wrapper {
+  width:100%;
+  max-width:800px;
+  text-align:center;
+  padding-top:256px;
+  padding-bottom:64px;
+  margin:auto;
+  position:relative;
+}
+
+.demo_wrapper h1 {
+  background:lightblue;
+  border-radius:2px;
+  padding:6px 0px;
+}
+
+.demo_header {
+  width:100%;
+  max-width:800px;
+  position:fixed;
+  top:0px;
+  background:rgba(255, 255, 255, .8);
+}
+
+.vert_divider {
+  width: 100%;
+  height: 1px;
+  background: #777777;
+  margin-top: 32px;
+}
